@@ -3,7 +3,7 @@
   "description": "Bitrix symfony component helper extension",
   "keywords": ["bitrix", "symfony", "helper"],
   "type": "bitrix-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "authors": [
     {
