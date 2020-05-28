@@ -14,7 +14,8 @@
   ],
   "require": {
     "symfony/templating": "^3.4",
-    "symfony/finder": "^4.1"
+    "symfony/finder": "^4.1",
+    "symfony/config": "^3.4"
   },
   "autoload": {
     "psr-4": {
